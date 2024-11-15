@@ -1,3 +1,5 @@
 # IT115
-Students' Project
+Student's Project Learnings About Git and GitHub
+Will be learning the process of GitHub
+
 Patricia Chu
